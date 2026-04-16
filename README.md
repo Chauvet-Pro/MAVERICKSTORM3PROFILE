@@ -2,6 +2,11 @@
 
 ## Software Versions
 
+[V1.251211 - Maverick Storm 3 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM3PROFILE/blob/db79f7199793d4017a437edc9c154e4ef7efa89d/firmware/V1.251211.zip)
+- 1. Changes ArtNet universe to be 32767 max, changes the process to input universe. 
+- 2. Fixes the bug in ArtNet with MA3, which causes fixture to move randomly. 
+- 3. Adds watchdog for dimmer MCU, increasing stability.
+
 [V1.250603 - Maverick Storm 3 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM3PROFILE/blob/22b935d96fd80bb4d560bf5b36fc7fed276769e3/V1.250603.zip)
 - Initial production line software
 

@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.260623 - Maverick Storm 3 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM3PROFILE/blob/e3dbcfbe3cc143d5a10a20f49b0991e332e98d84/firmware/V1.260623.zip)
+- Improves the focus reset process so that focus can be correctly reset while hung up side down
+
 [V1.251211 - Maverick Storm 3 Profile](https://github.com/Chauvet-Pro/MAVERICKSTORM3PROFILE/blob/db79f7199793d4017a437edc9c154e4ef7efa89d/firmware/V1.251211.zip)
 - Changes ArtNet universe to be 32767 max, changes the process to input universe. 
 - Fixes the bug in ArtNet with MA3, which causes fixture to move randomly. 
